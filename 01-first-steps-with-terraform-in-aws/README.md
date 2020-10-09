@@ -1,4 +1,4 @@
-# Terraform and AWS setup
+# Terraforming DNS with AWS Route53
 
 This group of Terraform files configures Terraform to run against AWS.
 
